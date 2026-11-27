@@ -4,7 +4,8 @@
 
 This is a proposed software study, not a claim about historical change or all of STEM. No participants have been recruited and no new results are reported.
 
-- [Rough manuscript](paper/manuscript.md)
+- [Rough manuscript for author review](paper/manuscript-author-review.md)
+- [Original manuscript](paper/manuscript.md) · [Silent critique](critiq-output/author-review.md)
 - [How to contribute](contributing.md)
 - [Draft collaborator email, not sent](contributor-invitation.md)
 
